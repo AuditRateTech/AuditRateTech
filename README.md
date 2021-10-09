@@ -3,6 +3,16 @@ With extensive experience in the crypto market in the field of security, our tea
 
 We conduct audit and development of smart contracts with the aim of improving the quality of writing, checking security, as well as protecting smart contracts from hacking in BSC, ETH, Matic, KuCoin etc.
 
+For Distributed applications developers, security can be a significant concern. That is why we have implemented a service called DApp Security.
+
+Smart contract code audit is an important first step in securing a Distributed applications and it's not enough to guarantee the DApp security. 
+Smart contract audits cover only one layer of the blockchain ecosystem and entirely ignore external applications that the contract may interface with.  This means that they are woefully inadequate at assessing the true vulnerability of a DApp.
+
+An accurate DApp security assessment requires a comprehensive penetration test as well as a smart contract audit.  This enables the auditors to identify all potential attack vectors against the Distributed applications, not just the ones that are visible in the DApp’s smart contract backend code.
+
+We check all these vulnerabilities and more, manually as well as using automatic analysis tools to ensure integrity in your application.
+You can find out more about the price by contacting us.
+
 ## Why Us
 - 💻 SECURE & SAFE
   - We deeply analyze the smart contracts line by line and cover the smart contracts with tests when developing for our clients.
