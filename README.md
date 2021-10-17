@@ -32,10 +32,9 @@ We also offer KYC / Doxx services.
 [<img align="left" alt="AuditRateTech | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AuditRateTech | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][medium]
 [<img align="left" alt="AuditRateTech | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="AuditRateTech | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 [twitter]: https://twitter.com/AuditRateTech
 [medium]: mailto:support@auditrate.tech
 [telegram]: https://t.me/auditratetech
-[telegram]: https://t.me/alexauditrate
+
