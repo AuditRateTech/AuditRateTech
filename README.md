@@ -21,7 +21,7 @@ We also offer KYC / Doxx services.
 - ⏱ FAST
   - Audit reports with the recommendations how to fix the bugs and mitigate the risks delivered in ~ 6h up to 2 days.
 - ♾ MANUAL CHECK
-  - Our team does not only Automated audit, but also in Manual Check every smart contract. We also conduct an audit website, locked tokens/LP and other economic indicators.
+  - Our team does not only Automated audit, but also in Manual Check every smart contract. We also conduct an audit website, lock tokens/LP and other economic indicators.
 - ☁️ AFFORDABLE
   - We fully utilize our developers to keep low prices for audits. At 250 USD for a complete audit, we are one of the most affordable audit providers on the market. We offer KYC/Doxx services at 100 USD.
 - 🛠 FULL SECURITY
