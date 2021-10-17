@@ -10,8 +10,10 @@ Smart contract audits cover only one layer of the blockchain ecosystem and entir
 
 An accurate DApp security assessment requires a comprehensive penetration test as well as a smart contract audit.  This enables the auditors to identify all potential attack vectors against the Distributed applications, not just the ones that are visible in the DApp’s smart contract backend code.
 
+That is why we have implemented a service called DApp Security.
 We check all these vulnerabilities and more, manually as well as using automatic analysis tools to ensure integrity in your application.
 You can find out more about the price by contacting us.
+We also offer KYC / Doxx services.
 
 ## Why Us
 - 💻 SECURE & SAFE
@@ -19,9 +21,9 @@ You can find out more about the price by contacting us.
 - ⏱ FAST
   - Audit reports with the recommendations how to fix the bugs and mitigate the risks delivered in ~ 6h up to 2 days.
 - ♾ MANUAL CHECK
-  - Our team does not only Automated audit, but also in Manual Check every smart contract.
+  - Our team does not only Automated audit, but also in Manual Check every smart contract. We also conduct an audit of the site, locked tokens/LP and other economic indicators.
 - ☁️ AFFORDABLE
-  - We fully utilize our developers to keep low prices for audits. At 250 USD for a complete audit, we are one of the most affordable audit providers on the market.
+  - We fully utilize our developers to keep low prices for audits. At 250 USD for a complete audit, we are one of the most affordable audit providers on the market. We offer KYC/Doxx services at 100 USD.
 - 🛠 FULL SECURITY
   - Full Smart Contract security audit.
 
