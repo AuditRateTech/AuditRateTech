@@ -23,7 +23,7 @@ We also offer KYC / Doxx services.
 - ♾ MANUAL CHECK
   - Our team does not only Automated audit, but also in Manual Check every smart contract. We also conduct an audit website, lock tokens/LP and other economic indicators.
 - ☁️ AFFORDABLE
-  - We fully utilize our developers to keep low prices for audits. At from 500 USD for a complete audit, we are one of the most affordable audit providers on the market. We offer KYC/Doxx services at 250 USD.
+  - We fully utilize our developers to keep low prices for audits. At from 100 USD for a complete audit, we are one of the most affordable audit providers on the market. We offer KYC/Doxx services at 100 USD.
 - 🛠 FULL SECURITY
   - Full Smart Contract security audit.
 
